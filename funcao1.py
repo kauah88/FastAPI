@@ -1,5 +1,4 @@
 def soma (a,b):
+    soma = a+b
+    return soma
 
-    som = a + b
-    return som
-    
