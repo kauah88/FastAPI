@@ -1,2 +1,5 @@
 def soma (a,b):
-    print(a+b)
+
+    som = a + b
+    return som
+    
