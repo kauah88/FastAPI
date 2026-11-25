@@ -17,3 +17,13 @@
    ```
 
 Após a ativação, o ambiente virtual estará pronto para uso.
+## Como instalar as bibliotecas do `requirements.txt`
+
+Com o ambiente virtual ativado, execute:
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+Esse comando instala as bibliotecas listadas no arquivo `requirements.txt`.
+
